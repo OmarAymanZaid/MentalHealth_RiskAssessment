@@ -10,11 +10,11 @@ A complete machine learning pipeline analyzing mental health data to uncover pat
 1) Download and install MiniConda from [here](https://docs.anaconda.com/free/miniconda/#quick-command-line-install)
 2) Create a new environment using the following command:
 ```bash
-$ conda create -n credit-risk-assessment
+$ conda create -n mental-health-assessment
 ```
 3) Activate the environment:
 ```bash
-$ conda activate credit-risk-assessment
+$ conda activate mental-health-assessment
 ```
 
 ### (Optional) Setup you command line interface for better readability
